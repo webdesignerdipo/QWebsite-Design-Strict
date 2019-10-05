@@ -1,0 +1,1 @@
+# QWebsite-Design-Strict
